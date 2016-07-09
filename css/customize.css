@@ -166,6 +166,13 @@ hr {
     display:none;
 }
 
+.member-description {
+    font-size: 12px;
+}
+
+.owl-lazy {
+    height: 200px;
+}
 
 @media (max-width: 768px){
     .logo {
